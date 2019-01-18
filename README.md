@@ -18,3 +18,6 @@ document.head.querySelector("meta[name='robots']").content='noindex, noodp, noyd
 
 ## Can I Customize This Script?
 Feel free to customize this script as needed. If you're interested in changing the meta tag to something other than noindex, refer to the JS script in this project for help.
+
+## License
+This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT)
